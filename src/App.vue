@@ -11,7 +11,7 @@
 </template>
 
 <style lang="scss">
-  @import "@/assets/scss/global.scss";
+@import "@/assets/scss/global.scss";
 </style>
 
 <style lang="scss" scoped>

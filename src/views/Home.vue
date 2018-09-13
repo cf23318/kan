@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="~@/assets/images/logo.png">
-    <img alt="Vue logo" src="~@/assets/images/logo/logo.png">
+    <img alt="Vue logo" src="~@/assets/images/logo/google.png">
     <router-view></router-view>
   </div>
 </template>
