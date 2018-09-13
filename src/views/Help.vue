@@ -1,8 +1,6 @@
 <template>
   <div class="help">
     <p>this is help page</p>
-    <p>change help</p>
-    <p>change help 2</p>
   </div>
 </template>
 
@@ -14,6 +12,6 @@ export default {
 
 <style lang="scss" scoped>
 .help {
-  background: red;
+  color: red;
 }
 </style>

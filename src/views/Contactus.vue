@@ -12,6 +12,6 @@ export default {
 
 <style lang="scss" scoped>
 .contactus {
-  background: red;
+  color: red;
 }
 </style>

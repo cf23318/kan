@@ -15,7 +15,7 @@ export default new Router({
       component: () => import(/* webpackChunkName: "home" */ './views/Home.vue')
     },
     {
-      path: '/about',
+      path: '/testKan/about',
       name: 'about',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
@@ -23,12 +23,12 @@ export default new Router({
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     },
     {
-      path: '/help',
+      path: '/testKan/help',
       name: 'help',
       component: () => import(/* webpackChunkName: "help" */ './views/Help.vue')
     },
     {
-      path: '/contactus',
+      path: '/testKan/contactus',
       name: 'contactus',
       component: () => import(/* webpackChunkName: "contactus" */ './views/Contactus.vue')
     },

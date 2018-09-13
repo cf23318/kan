@@ -17,6 +17,6 @@ export default {
 
 <style lang="scss" scoped>
 .home {
-  background: red;
+  color: $color-blue;
 }
 </style>

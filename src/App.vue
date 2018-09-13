@@ -2,11 +2,11 @@
   <div id="app">
     <div id="nav">
       <a href="/">Home</a> |
-      <a href="/about">About</a> |
-      <a href="/help">Help</a> |
-      <a href="/contactus">contactus</a>
+      <a href="/testKan/about">About</a> |
+      <a href="/testKan/help">Help</a> |
+      <a href="/testKan/contactus">contactus</a>
     </div>
-    <el-button>默认按钮</el-button>
+    <h2>this is app</h2>
     <router-view/>
   </div>
 </template>
@@ -39,8 +39,8 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  background: $color-blue;
+  // color: #2c3e50;
+  color: $color-blue;
 }
 #nav {
   padding: 30px;
